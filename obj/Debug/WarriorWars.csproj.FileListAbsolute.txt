@@ -1,0 +1,7 @@
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\obj\Debug\WarriorWars.csprojAssemblyReference.cache
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\obj\Debug\WarriorWars.csproj.CoreCompileInputs.cache
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\bin\Debug\WarriorWars.exe.config
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\bin\Debug\WarriorWars.exe
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\bin\Debug\WarriorWars.pdb
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\obj\Debug\WarriorWars.exe
+C:\Users\mtv12\Desktop\GA_JS_Class\Udemy_CSharp_Basics\WarriorWars\obj\Debug\WarriorWars.pdb
